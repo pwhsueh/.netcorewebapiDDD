@@ -1,0 +1,15 @@
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.deps.json
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.dll
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.pdb
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.AssemblyReference.cache
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.AssemblyInfoInputs.cache
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.AssemblyInfo.cs
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.CoreCompileInputs.cache
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.dll
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/refint/BuberDinner.Application.dll
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.pdb
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/ref/BuberDinner.Application.dll
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Domain.dll
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Domain.pdb
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.CopyComplete
