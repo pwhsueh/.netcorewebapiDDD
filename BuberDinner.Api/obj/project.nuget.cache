@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NubsWXaUNuZbasT7R3hSZ81cDbntXZYBF72vTxnZv2V5iN8SV59Ob4EmHeUpgxJnmxTnbw0VtK03Xqo33H8/Gw==",
+  "dgSpecHash": "hYT6hr+gd2IJLvaw+a69BMd7vqgPhVYwz6ClX4r6y0h4ifOxHc+kljVh1Gnh7f4VBorgvBCdWp8yjmdf+z5SqQ==",
   "success": true,
   "projectFilePath": "/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "/Users/PWHsueh/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/Users/PWHsueh/.nuget/packages/mapster/7.3.0/mapster.7.3.0.nupkg.sha512",
+    "/Users/PWHsueh/.nuget/packages/mapster.core/1.2.0/mapster.core.1.2.0.nupkg.sha512",
+    "/Users/PWHsueh/.nuget/packages/mapster.dependencyinjection/1.0.0/mapster.dependencyinjection.1.0.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
@@ -23,12 +26,18 @@
     "/Users/PWHsueh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/system.identitymodel.tokens.jwt/6.31.0/system.identitymodel.tokens.jwt.6.31.0.nupkg.sha512",
+    "/Users/PWHsueh/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/PWHsueh/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/PWHsueh/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/Users/PWHsueh/.nuget/packages/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "/Users/PWHsueh/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
-    "/Users/PWHsueh/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+    "/Users/PWHsueh/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/Users/PWHsueh/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

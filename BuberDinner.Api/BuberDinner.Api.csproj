@@ -6,12 +6,14 @@
     <UserSecretsId>4e93ab40-22c6-44c2-9e1f-79e47efab85c</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BuberDinner.Contracts\BuberDinner.Contracts.csproj"/>
-    <ProjectReference Include="..\BuberDinner.Application\BuberDinner.Application.csproj"/>
-    <ProjectReference Include="..\BuberDinner.Infrastructure\BuberDinner.Infrastructure.csproj"/>
+    <ProjectReference Include="..\BuberDinner.Contracts\BuberDinner.Contracts.csproj" />
+    <ProjectReference Include="..\BuberDinner.Application\BuberDinner.Application.csproj" />
+    <ProjectReference Include="..\BuberDinner.Infrastructure\BuberDinner.Infrastructure.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="ErrorOr" Version="1.2.1"/>
-    <PackageReference Include="MediatR" Version="11.1.0"/>
+    <PackageReference Include="ErrorOr" Version="1.2.1" />
+    <PackageReference Include="Mapster" Version="7.3.0" />
+    <PackageReference Include="Mapster.DependencyInjection" Version="1.0.0" />
+    <PackageReference Include="MediatR" Version="11.1.0" />
   </ItemGroup>
 </Project>

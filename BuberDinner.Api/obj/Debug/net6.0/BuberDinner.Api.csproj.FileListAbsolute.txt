@@ -44,3 +44,6 @@
 /Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/MediatR.dll
 /Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/MediatR.Contracts.dll
 /Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Mapster.dll
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Mapster.Core.dll
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Mapster.DependencyInjection.dll
