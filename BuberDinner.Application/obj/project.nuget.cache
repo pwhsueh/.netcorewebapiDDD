@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4WLT7+By0arSDrT5mSWO+QF0bR9upwzudNScNMV/Dcvhn7D/kLGs84pQenQZ34ELEKmhknKIQboMqlskT0J6ig==",
+  "dgSpecHash": "pJ/Ny9eOSvjQqTzE0xWLNNxH9W54c7L5k2J8jF4+AZTy4BWHcbCem9dsr2O68crck1sZWbyb617qiXCyUJfFhg==",
   "success": true,
   "projectFilePath": "/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
   "expectedPackageFiles": [
     "/Users/PWHsueh/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/Users/PWHsueh/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/PWHsueh/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/PWHsueh/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/microsoft.extensions.configuration/1.0.0/microsoft.extensions.configuration.1.0.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/microsoft.extensions.configuration.abstractions/1.0.0/microsoft.extensions.configuration.abstractions.1.0.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
