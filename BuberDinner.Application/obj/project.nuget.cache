@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cHblnoasNWJ+1/xuoWGellJ6fWDuV3PdxOfhAMROdRw6V5GDGZybHars1LCPsOTlyQxs92QKAotg3iV8kiRw/w==",
+  "dgSpecHash": "4WLT7+By0arSDrT5mSWO+QF0bR9upwzudNScNMV/Dcvhn7D/kLGs84pQenQZ34ELEKmhknKIQboMqlskT0J6ig==",
   "success": true,
   "projectFilePath": "/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
   "expectedPackageFiles": [
+    "/Users/PWHsueh/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/microsoft.extensions.configuration/1.0.0/microsoft.extensions.configuration.1.0.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/microsoft.extensions.configuration.abstractions/1.0.0/microsoft.extensions.configuration.abstractions.1.0.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",

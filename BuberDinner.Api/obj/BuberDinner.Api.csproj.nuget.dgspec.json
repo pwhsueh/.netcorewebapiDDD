@@ -50,6 +50,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -114,6 +120,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[1.0.0, )"
@@ -235,6 +245,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

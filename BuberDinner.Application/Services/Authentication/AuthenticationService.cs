@@ -1,6 +1,8 @@
 using BuberDinner.Application.Common.Interfaces.Authentication;
 using BuberDinner.Application.Common.Interfaces.Persistence;
+using BuberDinner.Domain.Common.Errors;
 using BuberDinner.Domain.Entities;
+using ErrorOr;
 
 namespace BuberDinner.Application.Services.Authentication;
 
@@ -17,18 +19,18 @@ public class AuthenticationService : IAuthenticationService
         _userRepository = userRepository;
     }
 
-    AuthenticationResult IAuthenticationService.Login(string email, string password)
+    ErrorOr<AuthenticationResult> IAuthenticationService.Login(string email, string password)
     {
         // 1. Validate the user exists
         if (_userRepository.GetByEmail(email) is not User user)
         {
-            throw new Exception("User with given email does not exist.");
+            return Errors.Authentication.InvalidCredentials;
         }
 
         // 2. Vlaidate the password is correct
         if (user.Password != password)
         {
-            throw new Exception("Invalid password.");
+            return new[] { Errors.Authentication.InvalidCredentials };
         }
 
         var token = _jwtTokenGenerator.GenerateToken(user);
@@ -37,12 +39,12 @@ public class AuthenticationService : IAuthenticationService
         return new AuthenticationResult(user, token);
     }
 
-    AuthenticationResult IAuthenticationService.Register(string firstName, string lastName, string email, string password)
+    ErrorOr<AuthenticationResult> IAuthenticationService.Register(string firstName, string lastName, string email, string password)
     {
         // 1. Validate the user doesn't exist
         if (_userRepository.GetByEmail(email) is not null)
         {
-            throw new Exception("User with given email already exists");
+            return Errors.User.DuplicateEmail;
         }
 
         // 2. create user (generate unique id) & persist to DB

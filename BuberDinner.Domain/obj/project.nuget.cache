@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lGiRhwHXZiyMKVAkzE533E4mkgmxo2sPPBemB5w6TgN64+4icHAbPwNtMFq8Yo3Zc9jHIGMUvEXo/FTxijzlgA==",
+  "dgSpecHash": "VVSf+1qGHIk89dka0sV/Gr4JwRdPanHqOiexT+tMLTl1LGuxhBVM9pFxqgjOl5ufjmp43gJTtLXDdCFetFYCnQ==",
   "success": true,
   "projectFilePath": "/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/PWHsueh/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

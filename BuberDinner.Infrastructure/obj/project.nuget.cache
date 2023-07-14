@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jqY+CcQydZodeiEb2lhrovDmxtWD60qE7nlZfaAPjR/cKJ2r/MfvPPxYsQS2reDM2uIaEISWHH4pErnYlwkqlQ==",
+  "dgSpecHash": "HVosIQMSMfMTJuEaNhk62YGOxa5cLZYXbnGW/QYMyyDWIEKnk79WnX56wETCoo7TslYqG1iW478gspp2LO7h3Q==",
   "success": true,
   "projectFilePath": "/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "/Users/PWHsueh/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "/Users/PWHsueh/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

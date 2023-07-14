@@ -40,3 +40,4 @@
 /Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
 /Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
 /Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/PWHsueh/Documents/.NetCore/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/ErrorOr.dll
